@@ -3,7 +3,7 @@ I'm Osigwe Chinenye <a href="https://www.linkedin.com/in/Onenye/"><img align="ri
 </a>
 <br>
 
-- I am a highly skilled Full-Stack Developer with over five (5)+ years of experience in developing and maintaining server-side network components and building high-performance applications. Proficient in both frontend and backend technologies, I possess a deep understanding of software engineering fundamentals and a track record of delivering high-impact products. I am committed to finding innovative solutions to complex problems and excel in collaborative environments...
+- I am a highly skilled Frontend Developer with over five (3)+ years of experience in developing and maintaining server-side network components and building high-performance applications. Proficient in both frontend and backend technologies, I possess a deep understanding of software engineering fundamentals and a track record of delivering high-impact products. I am committed to finding innovative solutions to complex problems and excel in collaborative environments...
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" border-radius="20px" />
@@ -17,8 +17,8 @@ I'm Osigwe Chinenye <a href="https://www.linkedin.com/in/Onenye/"><img align="ri
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help <a href="https://www.codehouze.dev/#contact">Reach out</a>
 - 📄 &nbsp; Know about my experiences <a href="https://docs.google.com/document/d/16uCdXxQvh0nHSWvTPWInytmxGiwbuZH4SAyfnhnBSvI/edit?usp=sharing"/>Resume</a>
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
-- 😄 &nbsp; Pronouns: He/Him
-- ⚡ &nbsp; Fun fact: listening to Music and Playing Video Games
+- 😄 &nbsp; Pronouns: She/Her
+- ⚡ &nbsp; Fun fact: Travelling, reading good books.
 
 <br>
 
